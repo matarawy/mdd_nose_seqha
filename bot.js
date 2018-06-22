@@ -712,4 +712,4 @@ client.user.setGame(` Pirates in top`);
 
 
 
-client.login(proccess.env.die);
+client.login(process.env.BOT_TOKEN);
